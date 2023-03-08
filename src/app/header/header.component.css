@@ -1,0 +1,28 @@
+.center-header {
+    width: 100%;
+    text-align: center;
+}
+
+.contact-information {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 41px;
+}
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 12px;
+    margin-right: 12px;
+}
