@@ -23,3 +23,8 @@ ul {
     flex-direction: row;
     justify-content: space-between;
 }
+
+.red {
+    font-weight: bold;
+    color: #EB455F;
+}
